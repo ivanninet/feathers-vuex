@@ -154,7 +154,7 @@
     "body-parser": "^1.19.0",
     "can-fixture-socket": "^2.0.3",
     "chai": "^4.2.0",
-    "date-fns": "^2.8.1",
+    "date-fns": "^2.9.0",
     "deep-object-diff": "^1.1.0",
     "eslint": "^6.7.1",
     "eslint-config-prettier": "^6.7.0",
